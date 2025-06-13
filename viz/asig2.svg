@@ -123,7 +123,7 @@
       }
 
       .cls-31 {
-        font-family: AcuminConcept-Bold, 'Acumin Variable Concept';
+        font-family: Helvetica-Bold, 'Helvetica';
         font-variation-settings: 'wght' 700, 'wdth' 100, 'slnt' 0;
         font-weight: 700;
       }
@@ -133,7 +133,7 @@
       }
 
       .cls-32 {
-        font-family: AcuminConcept-Regular, 'Acumin Variable Concept';
+        font-family: Helvetica-Regular, 'Helvetica';
         font-variation-settings: 'wght' 400, 'wdth' 100, 'slnt' 0;
       }
 
