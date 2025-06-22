@@ -16,15 +16,15 @@
         }
         .s2 {
             fill: #000000;
-            stroke: #00c3ff;
+            stroke: #8895bd;
             stroke-dasharray: 4;
         }
         .s3 {
             fill: #000000;
-            stroke: #00c3ff;
+            stroke: #8895bd;
         }
         .s4 {
-            fill: #00c3ff;
+            fill: #8895bd;
         }
         .s5 {
             fill: #000000;
@@ -32,39 +32,39 @@
         }
         .s6 {
             fill: #000000;
-            stroke: #189af6;
+            stroke: #2c61f4;
             stroke-dasharray: 4;
         }
         .s7 {
             fill: #000000;
-            stroke: #189af6;
+            stroke: #2c61f4;
         }
         .s8 {
-            fill: #189af6;
+            fill: #2c61f4;
         }
         .s9 {
             fill: #ffffff;
-            stroke: #189af6;
+            stroke: #2c61f4;
         }
         .s10 {
             fill: #000000;
-            stroke: #125389;
+            stroke: #253786;
             stroke-dasharray: 4;
         }
         .s11 {
             fill: #000000;
-            stroke: #125389;
+            stroke: #253786;
         }
         .s12 {
-            fill: #125389;
+            fill: #253786;
         }
         .s13 {
             fill: #ffffff;
-            stroke: #125389;
+            stroke: #253786;
         }
         .s14 {
             fill: #000000;
-            stroke: #125389;
+            stroke: #253786;
             stroke-width: 2;
         }
     </style>
