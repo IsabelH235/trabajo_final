@@ -1,19 +1,19 @@
 :root {
-    --acentoAlto: #8A97BF;
-    --acento: rgb(28, 56, 140);
-    --acentoBajo: rgb(44, 97, 244);
+    --acentoAlto: #8a97bf;
+    --acento: #1c388c;
+    --acentoBajo: #2c61f4;
     --gris: #546E7A;
     --bs-font-sans-serif: Helvetica;
-    --bs-link-color-rgb: 44, 97, 244;
+    --bs-link-color-rgb: 138, 151, 191;
     --bs-link-hover-color-rgb: 28, 56, 140;
 }
 
 .text-bg-primary{
-    background-color:#8A97BF!important;
+    background-color:#f2c166!important;
 }
 
 .text-bg-secondary{
-    background-color:#8A97BF!important;
+    background-color:#f2c166!important;
 }
 
 em{
